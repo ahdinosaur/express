@@ -1,3 +1,8 @@
+3.x
+===
+
+ * Make strong ETags actually strong (md5 instead of crc32)
+
 3.8.0 / 2014-05-21
 ==================
 
