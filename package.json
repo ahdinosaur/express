@@ -55,7 +55,7 @@
     "cookie": "0.1.2",
     "buffer-crc32": "0.2.1",
     "fresh": "0.2.2",
-    "methods": "1.0.0",
+    "methods": "git://github.com/visionmedia/node-methods",
     "send": "0.3.0",
     "cookie-signature": "1.0.3",
     "merge-descriptors": "0.0.2",
